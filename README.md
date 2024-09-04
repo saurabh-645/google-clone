@@ -66,4 +66,4 @@ This project is a front-end implementation of Google's search functionalities, i
 
 Saurabh Gupta - [saurabhgupta89691@gmail.com](mailto:saurabhgupta89691@gmail.com)
 
-Project Link: [https://github.com/saurabh-645/google-clone](https://github.com/saurabh-645/google-clone)]
+Project Link: [https://github.com/saurabh-645/google-clone](https://github.com/saurabh-645/google-clone)
